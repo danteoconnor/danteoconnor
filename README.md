@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there my name is Dante👋
+Masters in Data Science @ UConn
 
+I am currently a software engineer and looking to starting my journey into the world of Data Science and Machine Learning!
+
+Skills and Proficiencies (During the last semester)
+
+Statistical modeling in R (linear, regression, Multiple Linear Regression, Categorical Classification)
+Causal Inference techniques
+Data Mining
 <!--
 **danteoconnor/danteoconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
